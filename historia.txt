@@ -4,6 +4,10 @@ Daniel tiene 24 años y nació en México
 
 El es desarrollador
 
+<<<<<<< HEAD
 Hoy hablaremos de su historia.
+=======
+Hoy hablaremos de su Vida.
+>>>>>>> cabecera
 
 El usa lentes
