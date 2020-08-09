@@ -1,0 +1,21 @@
+git init --> Se inicia el repositorio de manera local
+
+git clone URL --> para traer un proyecto de GitHub
+
+git status --> Verifica que archivos estan en staying
+
+git commit -am "Comentario del coomit" --> Hacer commit al repositorio local
+
+git chekout master --> Te cambias de rama ya sea Master cabecera
+
+git branch Cabecera --> Crea nueva rama
+
+git pull origin master --> trae los cambios del servidor online
+
+git push origin master --> envia los cambios al servidor online
+
+git remote -v --> Sirve para ver en que GitHub estas conectado
+
+git remote add upstream URL -->Para agregar un proyecto en palabras de Freddy crea otra fuente nueva donde podemos traer datos a nuestra rama Master
+
+
